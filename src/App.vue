@@ -9,8 +9,8 @@
     /*const state = reactive({
         guitarras: [db]
     })
-            codigo con reactive*/
-    console.log (state.guitarras)
+            codigo con reactive
+    console.log (state.guitarras)*/
     const carrito = ref([])
     const guitarraModelo = ref ({})
     const guitarras = ref([db])
